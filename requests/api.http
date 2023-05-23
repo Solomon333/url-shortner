@@ -1,0 +1,12 @@
+
+
+
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+
+{
+    "longUrl": "https://stackoverflow.com/questions/65376041/express-post-request-syntaxerror-unexpected-token-o
+    -in-json-at-position-1"
+}
+

@@ -1,0 +1,8 @@
+
+
+{
+    "mongoURI": "mongodb+srv://solo_dev23:kd35mj23cr7@cluster0.tevy35r.mongodb.net/?retryWrites=true&w=majority",
+    
+    "baseUrl": "http://localhost:5000"
+
+}
